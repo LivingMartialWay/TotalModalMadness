@@ -23,7 +23,7 @@ const VideoDetail = ({ video }) => {
               4) Portals.<br/>
               5) CSS.
           </p>
-          <p><a href="https://github.com/LivingMartialWay/modalmadnessv1" target="_blank" rel="noreferrer">Click here to view respository.</a></p>
+          <p><a href="https://github.com/LivingMartialWay/TotalModalMadness" target="_blank" rel="noreferrer">Click here to view respository.</a></p>
       </div>
     </div>
   );
