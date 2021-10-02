@@ -1,0 +1,16 @@
+.close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: transparent;
+}
+
+.close img {
+  width: 1rem;
+  height: auto;
+  transition: all 0.2s ease;
+}
+
+.close:hover img {
+  transform: scale(1.3);
+}

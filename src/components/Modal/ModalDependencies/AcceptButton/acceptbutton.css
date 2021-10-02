@@ -1,0 +1,15 @@
+button {
+  float: right;
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+
+.submit {
+  margin-right: 1rem;
+  background-color: #364348;
+  color: #fff;
+}
+
+.submit:hover {
+  background-color: rgba(54, 67, 72, 0.8);
+}
